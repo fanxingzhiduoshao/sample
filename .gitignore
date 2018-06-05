@@ -7,3 +7,4 @@ springboot/springboot-web/springboot-web.iml
 *.iml
 springboot/springboot-web-mvc/target/*
 
+springboot/springboot-mysql/target/classes/application.properties
